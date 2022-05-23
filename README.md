@@ -1,4 +1,4 @@
-### Hi I'm Changmoo 👋
+### Hi, I'm Changmoo 👋
 - I am intertested in Javascript.
 - Especially, I like React library.
 - Skills: Javascript, React
