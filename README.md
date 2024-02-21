@@ -1,7 +1,7 @@
 ### Hi, I'm Changmoo 👋
 - I am intertested in Javascript.
-- Especially, I like React library.
-- Skills: Javascript, React
+- Especially, I like Next.js.
+- Skills: Javascript, Next.js, react-query
 
 <!--
 **changmoolee/changmoolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
