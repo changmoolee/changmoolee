@@ -3,6 +3,9 @@
 - Especially, I like Next.js.
 - Skills: Javascript, Next.js, react-query
 
+
+<figure><embed src="https://wakatime.com/share/@018f0875-e6e5-4f93-a2db-ed53895ed0d3/a99b5fe2-c2a3-4a05-874e-60285ca408c6.svg"></embed></figure>
+
 <!--
 **changmoolee/changmoolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
