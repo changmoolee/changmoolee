@@ -5,9 +5,8 @@
 주로 **React (Next.js)** 를 사용하여 웹 애플리케이션을 개발하며, 최근에는 **NestJS와 TypeORM을 활용한 백엔드 개발**에도 도전하고 있습니다.
 
 💡 **배움과 성장**을 중요하게 생각하며, 실무에서 다양한 경험을 쌓으며 개발자로서의 깊이를 더해가고 있습니다.  
-💻 **최적화, 성능 개선, 클린 코드**에 관심이 많으며, **효율적인 개발 환경 구축**을 위해 노력하고 있습니다.
 
----
+<br><br>
 
 ## 🔧 Tech Stack
 
@@ -33,12 +32,12 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-aaaaaa?style=flat&logo=security&logoColor=white)
 
----
+<br><br>
 
 ## 📌 Ongoing Projects
 🔹 **joseph-instagram**: 인스타그램 클론 프로젝트 프론트엔드
 🔹 **joseph-api**: 인스타그램 클론 프로젝트 백엔드
 🔹 **개인 블로그 개발**: 기술 블로그 제작 중  
 
-📌 앞으로도 새로운 기술과 프로젝트에 도전하며 성장해 나가겠습니다.  
+앞으로도 새로운 기술과 프로젝트에 도전하며 성장하려 합니다.
 저의 깃허브를 방문해주셔서 감사합니다! 🙌  
