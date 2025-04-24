@@ -38,11 +38,19 @@
 <br><br>
 
 ## 📌 Ongoing Projects
-<br>
 
-🔹 [📂 joseph-instagram](https://github.com/changmoolee/joseph-instagram) : 인스타그램 클론 프로젝트 **프론트엔드**<br>
-🔹 [📂 joseph-api](https://github.com/changmoolee/joseph-api) : 인스타그램 클론 프로젝트 **백엔드**<br>
-🔹 [개인 블로그 개발](https://velog.io/@lcm8543/posts) : 기술 블로그 제작 중<br><br>
+### 인스타그램 프로젝트
+<div>
+  <img alt="프로젝트 이미지1" src="https://github.com/user-attachments/assets/a05e5886-5b8c-40f6-b26b-3161873ea4bc" width="200" />
+  <img alt="프로젝트 이미지2" src="https://github.com/user-attachments/assets/7aef3914-2365-4724-9f89-14a48b9f1ec4" width="200" />
+  <img alt="프로젝트 이미지3" src="https://github.com/user-attachments/assets/af77386d-f70a-4726-905d-daa23ea4236e" width="200" />
+  <img alt="프로젝트 이미지3" src="https://github.com/user-attachments/assets/9854629d-00e4-4e88-8fc9-36172d95be0f" width="200" />
+</div>
+
+#### 🔹[📂 joseph-instagram](https://github.com/changmoolee/joseph-instagram) :**프론트엔드** <br>
+#### 🔹[📂 joseph-api](https://github.com/changmoolee/joseph-api) : **백엔드** <br><br>
+
+### 🔹[개인 블로그 개발](https://velog.io/@lcm8543/posts) : 기술 블로그 제작 중<br><br>
 
 앞으로도 새로운 기술과 프로젝트에 도전하며 성장하려 합니다.
-저의 깃허브를 방문해주셔서 감사합니다! 🙌<br><br><br><br>
+저의 깃허브를 방문해주셔서 감사합니다! 🙌 <br><br><br><br><br><br><br><br>
